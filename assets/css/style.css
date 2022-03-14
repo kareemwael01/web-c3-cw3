@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Cairo:wght@200&family=Lalezar&family=League+Gothic&family=Noto+Serif+Display:wght@100&display=swap');
+
+.text-colour{
+    background-color: black;
+    color: #03045e;
+    font-family: 'Lalezar', cursive;
+
+}
+
+.colour{
+    color: rgb(21, 46, 126);
+    font-weight: 200;
+}
